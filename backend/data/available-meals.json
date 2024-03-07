@@ -1,0 +1,86 @@
+[
+  {
+    "id": "m1",
+    "name": "Dumbbell",
+    "price": "8.99",
+    "description": "A dumbbell is a handheld weight used in strength training, consisting of a short bar with weights attached at each end. ",
+    "image": "images/dumbbell.jpg"
+  },
+  {
+    "id": "m2",
+    "name": "Foldable portable fitness cycle",
+    "price": "12.99",
+    "description": "Compact and foldable, the portable fitness cycle offers convenient exercise on the go",
+    "image": "images/foldable-portable-fitness-cycle.jpg"
+  },
+  {
+    "id": "m3",
+    "name": "ThreadMill",
+    "price": "7.99",
+    "description": "The threadmill provides a versatile indoor running experience for fitness enthusiasts.",
+    "image": "images/threadmill.jpg"
+  },
+  {
+    "id": "m4",
+    "name": "Protein Powder",
+    "price": "10.99",
+    "description": "Protein powder: the convenient way to boost your protein intake and support your fitness goals.",
+    "image": "images/protein.jpg"
+  },
+  {
+    "id": "m5",
+    "name": "Punching Bag",
+    "price": "9.99",
+    "description": "a dynamic tool for stress relief and total body conditioning.",
+    "image": "images/punching-bag.jpg"
+  },
+  {
+    "id": "m6",
+    "name": "Yoga Mat",
+    "price": "10.99",
+    "description": "your portable sanctuary for mindfulness and movement.",
+    "image": "images/yogamat.jpg"
+  },
+  {
+    "id": "m7",
+    "name": "HandGrip-Strengthener",
+    "price": "17.99",
+    "description": " the compact tool for enhancing hand and forearm strength and dexterity.",
+    "image": "images/HandGrip-Strengthener.jpg"
+  },
+  {
+    "id": "m8",
+    "name": "Gym Ball",
+    "price": "15.99",
+    "description": "a versatile tool for core stability, balance training, and dynamic workouts.",
+    "image": "images/Gymball.jpg"
+  },
+  {
+    "id": "m9",
+    "name": "Gym bike",
+    "price": "13.99",
+    "description": "a stationary cardio machine for indoor cycling workouts, offering low-impact exercise and customizable intensity.",
+    "image": "images/Gymbike.jpg"
+  },
+  {
+    "id": "m10",
+    "name": "Gym Rope",
+    "price": "11.99",
+    "description": "a versatile tool for full-body workouts, offering dynamic resistance training and functional strength exercises",
+    "image": "images/gymrope.jpg"
+  },
+  {
+    "id": "m11",
+    "name": " kettlebell",
+    "price": "19.99",
+    "description": "a compact yet powerful tool for enhancing strength, mobility, and cardiovascular fitness.",
+    "image": "images/weight.jpg"
+  },
+  {
+    "id": "m12",
+    "name": "gloves",
+    "price": "8.99",
+    "description": " essential protection and grip support for weightlifting and gym workouts.",
+    "image": "images/gloves.jpg"
+  }
+]
